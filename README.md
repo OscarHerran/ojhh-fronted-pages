@@ -32,3 +32,40 @@ Fronted Projects
  Ejercicio 10
  https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T28/Ejercicio10/index.html 
  
+ Tareas Unidad 29
+ 
+ Ejercicio 11
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio11/donde2.html
+ 
+ Ejercicio 12
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio12/deportes/instalaciones.html
+ 
+ Ejercicio 13
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio13/index.html
+ 
+ Ejercicio 14
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio14/index.html
+ 
+ Ejercicio 15
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T29/Ejercicio15
+ 
+ Ejercicio 16
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio16/index.html
+ 
+ Ejercicio 17
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio17/index.html
+ 
+ Ejercicio 18
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio18/index.html
+ 
+ Ejercicio 19
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio19/index.html
+ 
+ Ejercicio 20
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio20/index.html
+ 
+ 
+ 
+ 
+ 
+ 
