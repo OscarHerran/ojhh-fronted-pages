@@ -1,0 +1,13 @@
+body   {
+     background-color: aqua;
+     width: 600px;
+     height: 600px;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+   }
+
+li{
+       margin-bottom: 0.9rem;
+   }

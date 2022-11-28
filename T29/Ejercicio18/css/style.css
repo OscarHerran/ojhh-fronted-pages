@@ -1,0 +1,123 @@
+body {
+    margin-top: 30px;
+}
+
+.container  {
+    display: flex;
+    flex-direction: column;
+    margin : 20px;
+}
+
+
+.hijo1  {
+    width: 400px;
+    height: 200px;
+    border: solid rgb(67, 3, 214) 1px;
+    margin: 20px;
+    background-color: rgb(104, 243, 243);
+}
+
+.hijo2  {
+    width : 800px;
+    height : 600px;
+    border: solid red 3px;
+    background-color: rgb(104, 243, 243);
+}
+
+
+.hijo3  {
+    width: 400px;
+    height: 200px;
+    border: solid rgb(67, 3, 214) 1px;
+    margin: 20px;
+    background-color: rgb(104, 243, 243);
+}
+
+/*GENERACIÓN DE NIETOS, SOLAPAMIENTO DE IMAGENES DENTRO DE DIVS*/
+
+#hijo1-nieto3 {
+    background: url("../img/f01.png");
+    background-repeat: repeat;
+    width: 400px;
+    height: 10px;
+    margin-top: 172px;
+    position: absolute; /* CON EL POSITION : ABSOLUTE ES QUE SE OBTIENE QUE EL TERCER HIJO SE POSICIONE DE FORMA ABSOLUTA EN RELACIÓN A LOS DEMÁS ELEMENTOS DEL VID*/
+}
+
+#hijo1-nieto1 {
+    background: url("../img/f03.png");
+    background-repeat: no-repeat;
+    background-size: 450px 150px;
+    width: 400px;
+    height: 200px;
+
+}
+
+#hijo1-nieto2 {
+    background: url("../img/f02.png");
+    background-repeat: no-repeat;
+    background-size: 450px 200px;
+    width: 400px;
+    height: 200px;
+}
+
+/*segunda generación hijo*/
+
+#hijo2-nieto1 {
+    background: url("../img/f03.png");
+    background-repeat: repeat;
+    background-size: 400px 265px;
+    width: 800px;
+    height: 300px;
+    position: absolute;
+}
+
+#hijo2-nieto2 {
+    background: url("../img/f02.png");
+    background-repeat: no-repeat;
+    background-size: 550px 250px;
+    width: 1200px;
+    height: 600px;
+    margin-top: 350px;
+    position: absolute;
+}
+
+
+#hijo2-nieto3 {
+    background: url("../img/f01.png");
+    background-repeat: repeat;
+    width: 800px;
+    height: 15px;
+    margin-top: 217px;
+    position: absolute; /* CON EL POSITION : ABSOLUTE ES QUE SE OBTIENE QUE EL TERCER HIJO SE POSICIONE DE FORMA ABSOLUTA EN RELACIÓN A LOS DEMÁS ELEMENTOS DEL VID*/
+}
+
+
+/* TERCERA GENERACION DE HIJO*/
+
+
+#hijo3-nieto3 {
+    background: url("../img/f01.png");
+    background-repeat: repeat;
+    width: 400px;
+    height: 10px;
+    margin-top: 172px;
+    position: absolute; /* CON EL POSITION : ABSOLUTE ES QUE SE OBTIENE QUE EL TERCER HIJO SE POSICIONE DE FORMA ABSOLUTA EN RELACIÓN A LOS DEMÁS ELEMENTOS DEL VID*/
+}
+
+#hijo3-nieto1 {
+    background: url("../img/f03.png");
+    background-repeat: no-repeat;
+    background-size: 450px 150px;
+    width: 400px;
+    height: 200px;
+
+}
+
+#hijo3-nieto2 {
+    background: url("../img/f02.png");
+    background-repeat: no-repeat;
+    background-size: 450px 200px;
+    width: 400px;
+    height: 200px;
+}

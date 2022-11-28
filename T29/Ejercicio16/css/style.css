@@ -1,0 +1,28 @@
+body    {
+    margin: 20%gi;
+}
+
+table, tr, td{
+    border: solid black 1px;
+    text-align: center;
+}
+
+td  {
+    padding: 15px;
+}
+
+#green {
+    background-color: rgb(9, 179, 179);
+}
+
+#salmon {
+    background-color: burlywood;
+}
+
+#yellow  {
+    background-color: rgb(240, 240, 176);
+}
+
+tr {
+    background-color: antiquewhite;
+}

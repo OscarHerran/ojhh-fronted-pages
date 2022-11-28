@@ -1,0 +1,137 @@
+body {
+    background-image: url(../img/ac.jpg);
+}
+
+/* FLEX PADRE : DIRECCIÓN EN COLUMNAS PARA UBICAR A LOS 3 HIJOS CON 4 ELEMENTOS */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align:center;
+}
+
+/* LOS HIJOS TENDRÁN DISPOSION FLEX PERO EN FILAS PARA UBICAR LOS ELEMENTOS*/
+.hijo1 {
+    display: flex;
+    flex-direction: row;
+}
+
+/* DISPOSICION  DE LA PRIMERA COLUMNA */
+.hijo1 > div {    
+   /* background-color: aqua;*/
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border: solid 1px black;
+    
+}
+
+.hijo2 {
+    display: flex;
+    flex-direction: row;
+}
+
+/* DISPOSICION  DE LA SEGUNDA COLUMNA */
+.hijo2 > div { 
+    background-color: rgb(245, 252, 252);
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border: solid black 1px;
+}
+
+.hijo3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.hijo3 > div { 
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border: solid black 1px;
+}
+
+#mantel1 {
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: repeat;
+    
+}
+
+#mantel2 {
+    border: solid black 1px;
+}
+
+#mantel2-hijo {
+    width: 150px;
+    height: 150px;
+    margin:25px;
+    background-image: url("../img/back_mantel.jpg");
+}
+
+#mantel3  {
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px 200px;
+    /*FUNCIONAN DE AMBAS FORMAS, TANTO ABREVIADO COMO EN DETALLE
+    background : url("../img/back_mantel.jpg"), no-repeat, center, 200px 200px;*/
+}
+
+#mantel4 {
+    background-color: rgb(250, 249, 248);
+}
+
+#mantel4-hijo {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    background: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150px 150px;
+}
+
+#hijo2E {
+    background-image: url("../img/dh.jpg");
+    background-size: 200px 200px;
+}
+
+#hijo2F-hijo {
+    width: 150px;
+    height: 150px;
+    margin : 25px;
+    background-image: url("../img/dh.jpg");
+    background-size: 150px 150px;
+}
+
+#hijo2G {
+    background-image: url("../img/dh_2.jpg");
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#hijo2H {
+    background-image: url("../img/dh_3.jpg");
+    background-size: 100px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#hijo3I {
+    /*background-color: darkgreen;*/
+    background : linear-gradient(90deg, rgb(54, 247, 54), black)
+}
+
+#hijo3J {
+    background: linear-gradient(white, rgb(160, 4, 4));
+}
+
+#hijo3K {
+    background: linear-gradient(rgb(255, 255, 255), rgb(14, 116, 14));
+}
+
+#hijo3L {                                   /* EL VALOR TRANSPARENTE DEGRADA EL FONDO COMO ATRIBUTO EN CSS */
+    background: linear-gradient(transparent, rgb(14, 116, 14));
+}

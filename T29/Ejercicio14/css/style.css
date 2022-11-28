@@ -1,0 +1,19 @@
+body{
+    background-image: url("../img/pinguinos.PNG");
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 20%;/*EL MARGIN DEL BODY ES SOBRE EL QUE TOMARÁN REFERENCIA CUALQUIER OBJETO CONTENIDO EN ELLA*/
+}
+
+table, tr, th{
+    border: solid 1px black;
+    background-color: aliceblue;
+    width: 85%;
+    margin: auto;
+}
+
+td{
+    border: solid 1px black;
+    text-align: center;
+    background-color: blanchedalmond;
+}

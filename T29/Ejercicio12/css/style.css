@@ -1,0 +1,17 @@
+table, th, td {
+    border: solid 1px black;
+    background-color: aquamarine;
+}
+
+th{
+    background-color: darkolivegreen;
+}
+
+#middle tr, td{
+    text-align: center;
+}
+
+#dark td{
+    background-color: cadetblue;
+    text-align: center;
+}

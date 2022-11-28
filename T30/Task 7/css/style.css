@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(247, 222, 185);
+}
+
+p{
+    font-family: 'Courier New';
+    font-size: 30px;
+    margin: 20%;
+}

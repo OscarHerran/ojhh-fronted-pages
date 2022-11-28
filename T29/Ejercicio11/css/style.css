@@ -1,0 +1,14 @@
+table, th, td {
+    border: solid 1px black;
+    background-color: aquamarine; 
+}
+
+/*especificación de estilo únicamente para el encabezado de la tabla y el porqué usar etiquetado dentro de la misma para apuntar a la espeficidad en caso de que se requiera*/
+th{ 
+    background-color: seagreen;
+}
+
+/*LAS ID SE DEBEN DE INDICAR ANTES DE LA ETIQUETA A LA QUE HACE REFERENCIA, CASO CONTRARIO NO LAS RECONOCE*/
+#dark td{
+    background-color: darkolivegreen;
+}

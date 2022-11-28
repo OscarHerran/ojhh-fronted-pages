@@ -1,0 +1,94 @@
+body {
+    height: 500px;
+    width: 900px; /*ES EL ÚNICO MARGEN QUE SE AJUSTA CON LOS PARÁMETROS DEL TEXTO*/
+    font-family: 'Lucida Sans Unicode';
+    font: lighter;
+    background-color: gray;
+}
+
+div {
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+header  {
+    background-image: url("../imagenes/panoramica.jpg");
+    height: 180px;
+    border-radius: 25px;
+}
+
+h1   {
+    text-align: center;
+}
+
+#green  {
+    color: rgb(11, 148, 11);
+}
+
+#salmon {
+    color: sandybrown;
+}
+
+/* CON LA ETIQUETA ASIDE Y EL ATRIBUTO "float" UBICAMOS EL ASIDE JUSTO EN EL ESPACIO QUE DESEEMOS*/
+aside   {
+    width: auto;
+    padding-left: 10px;
+    margin-right: 30px;
+    float: left;
+}
+
+ul  {
+    list-style-type: none;  /* ATRIBUTO QUE ELIMINA LA LISTA */
+    text-align: center;
+}
+
+/* LOS ATRIBUTOS A APLICAR PARA EJERCER EL EFECTO DEL BUTTON SE DEBEN DE APLICAR A LA LISTA */
+li  {
+    margin: 5px;
+    border: solid 2px white; /*ES LO QUE QUENERA LA SEPARACIÓN DE LA LISTA*/
+    background-color: rgb(45, 211, 45);
+    padding-left: 15px;
+    padding-right: 15px;
+    /*  FUNCIONA DE AMBAS FORMAS*/
+    /*background: linear-gradient(5deg, rgb(45, 211, 45), white); /* LA PROPIEDAD "linear-gradient" se encarga de difuminar los colores para dar textura segun le indiquemos el porcentaje del gradiante*/
+    background: linear-gradient(to bottom,white, rgb(45, 211, 45)); /* LA PROPIEDAD "linear-gradient" se encarga de difuminar los colores para dar textura segun le indiquemos el porcentaje del gradiante*/
+}
+
+li a    {
+    display: inline-block;
+    text-decoration: none; /*ELIMINA EL SUBRALLADO DE los links */
+    margin: 5px;
+    color: black;
+}
+
+li :hover  { /*ATRIBUTO QUE REALIZA LA ACCION DEL COLOR CUANDO SE DESPLAZA POR ENCIMA DEL ELEMENTO*/
+    background-color: sandybrown;
+}
+
+.active  li   {
+    background-color: sandybrown;
+}
+
+section     {
+    background :linear-gradient(95deg, rgb(248, 246, 246), white);
+    border: solid 1px rgb(189, 186, 186);
+    margin-left: 200px;
+    margin-right: 25px;
+    padding: 20px;
+}
+
+h2  {
+    color: rgb(9, 207, 9);
+    border-bottom: solid 1px rgb(189, 186, 186);
+}
+
+h3  {
+    color: sandybrown;
+}
+
+footer  {
+    color: gray;
+    text-align: center;
+    font-size: small;
+}

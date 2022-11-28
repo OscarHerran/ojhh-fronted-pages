@@ -1,0 +1,7 @@
+body    {
+    margin: 20%;
+}
+
+table, th, td {
+    border: solid black 1px;
+}

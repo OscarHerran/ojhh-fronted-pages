@@ -1,0 +1,35 @@
+table{
+    border: solid 1px black;
+    width: 100%;
+}
+
+th{
+    background-color: darkturquoise;
+    border: solid 1px black;
+}
+
+#blue{ /*EL ID SIN ESPECIFICAR EL ELEMENTOS APUNTA ÚNICAMENTE EN EL CONTEXTO QUE LO LLAME, CASO CONTRARIO TORNA ERROR, EJM: EN ESTE CASO ESPECÍFICO SOLO 1 CELDA NO SE DEBE DE INDICAR CON EL TD*/
+    background-color: cyan;
+    text-align: left;
+}
+
+#pink {
+    background-color: darksalmon;
+    text-align: right;
+    text-align: end;
+}
+
+td{
+    border: solid 1px black;
+}
+
+/*USO DE LAS CLASES*/
+
+.middle{
+    text-align: center;
+    color: crimson;
+}
+
+.neutro{
+    text-align: center;
+}

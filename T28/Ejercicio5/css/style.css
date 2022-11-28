@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    height: 600px;
+    width: 600px;
+}
+
+header {
+    background-color: burlywood;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+
+em {
+    color: cornflowerblue;
+}
+
+.subtitle{
+    color: blue;
+    font-family: sans-serif;
+}
+
+.inserto {
+    margin-left: 30px;
+}
+
+p {
+    font: monospace ;
+}
