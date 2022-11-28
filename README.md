@@ -17,6 +17,9 @@ Fronted Projects
  Ejercicio 5
  https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T28/Ejercicio5/platosemana.html
  
+ Ejercicio 6
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T28/Ejercicio7/index.html
+ 
  Ejercicio 7
  https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T28/Ejercicio7/index.html
  
