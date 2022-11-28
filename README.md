@@ -64,6 +64,37 @@ Fronted Projects
  Ejercicio 20
  https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T29/Ejercicio20/index.html
  
+ Tareas Unidad 30
+ 
+ Ejercicio 1
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%201/index.html
+ 
+ Ejercicio 2
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%202/index.html
+ 
+ Ejercicio 3
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%203/index.html
+ 
+ Ejercicio 4
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%204/index.html
+ 
+ Ejercicio 5
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%205/index.html
+ 
+ Ejercicio 6
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%206/index.html
+ 
+ Ejercicio 7
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%207/index.html
+ 
+ Ejercicio 8
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%208/index.html
+ 
+ Ejercicio 9
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%209/index.html
+ 
+ Ejercicio 10
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%2010/index.html
  
  
  
