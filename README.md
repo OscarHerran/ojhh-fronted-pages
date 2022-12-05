@@ -96,6 +96,35 @@ Fronted Projects
  Ejercicio 10
  https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T30/Task%2010/
  
+ Tareas unidad 31
+ 
+ Ejercicio 11
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T31/Ejercicio11_Dados/
+ 
+ Ejercicio 12
+ https://github.com/OscarHerran/ojhh-fronted-pages/blob/main/T31/Ejercicio12_REGEX/
+ 
+ Ejercicio 13
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio13_Tablas_Y_Parrafos/
+ 
+ Ejercicio 14
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio14_Calculum/
+ 
+ Ejercicio 15
+ 
+ Ejercicio 16
+ 
+ Ejercicio 17
+ 
+ Ejercicio 18
+ 
+ Ejercicio 19
+ 
+ Ejercicio 20
+ 
+ Ejercicio 11
+ 
+ 
  
  
  
