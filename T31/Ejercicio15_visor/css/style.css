@@ -1,0 +1,36 @@
+body{
+    margin: auto 0px;
+    background-color: bisque;
+}
+
+main{
+    margin: 20%;
+}
+
+#imagenes   {
+    float: left;
+    width: 20%;
+}
+
+#imagenes img {
+    width: 30%;
+    margin: 4%;
+}
+
+#marco  {
+    float: right;
+    width: 75%;
+}
+
+#focus  {
+    width: max-content;
+    height: max-content;
+    position: relative;
+}
+
+#nombre {
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 35px;
+}

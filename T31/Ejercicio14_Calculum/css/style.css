@@ -1,0 +1,94 @@
+body{
+    margin: auto 0px;
+    background-color: rgb(127, 197, 255);
+}
+
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+    text-shadow: 15px;
+}
+
+main    {
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 37%;
+    width: 350px;
+    height: 400px;
+    border-radius: 10%;
+    align-content: center;
+    background-color: rgb(219, 218, 231);
+}
+
+.pantalla   {
+    width: 80%;
+    height: 15%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-align: end;
+}
+
+.calculum   {
+    display: grid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 25px;
+    /*UBICAMOS LAS FRACCIONES A REPARTIR DENTRO DEL GRID, CON EL ATRIBUTO REPEAT Y EN FRACCIONES*/
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 10px;
+    /*DEFINICIÓN Y UBICACIÓN DE LAS GRILLAS POR NOMBRES DE LAS GRID ÁREAS*/
+    grid-template-areas:
+        "Retr CE C"
+        "siete ocho nueve slash raiz"
+        "cuatro cinco seis asterisco percentil"
+        "uno dos tres menos unoX"
+        "cero masMenos punto mas igual" 
+    ;
+}
+
+/*DEFINICIÓN DE ITEMS POR ÁREAS PARA MEJOR INTUICIÓN*/
+
+.item23 {grid-area: "Retr";}
+.item1 {grid-area: "CE";}
+.item2 {grid-area: "C";}
+.item3 {grid-area: "uno";}
+.item4 {grid-area: "dos";}
+.item5 {grid-area: "tres";}
+.item6 {grid-area: "cuatro";}
+.item7 {grid-area: "cinco";}
+.item8 {grid-area: "seis";}
+.item9 {grid-area: "siete";}
+.item10 {grid-area: "ocho";}
+.item11 {grid-area: "nueve";}
+.item12 {grid-area: "slash";}
+.item13 {grid-area: "raiz";}
+.item14 {grid-area: "asterisco";}
+.item15 {grid-area: "percentil";}
+.item16 {grid-area: "menos";}
+.item17 {grid-area: "unoX";}
+.item18 {grid-area: "punto";}
+.item19 {grid-area: "mas";}
+.item20 {grid-area: "igual";}
+.item21 {grid-area: "cero";}
+.item22 {grid-area: "mas";}
+
+/* DEFINICIÓN DE LOS 3 BOTONES PRINCIPALES CON MAYOR LOGITUD*/
+.item23 {
+    grid-area: 1 / span 3;
+}
+
+.item1 {
+    grid-area: 1.5fr;
+}
+
+.item2{
+    grid-template-columns: 1.80fr;
+}
+
+button{
+    box-shadow: -5px -5px 5px #888;
+    border: 0;
+}
