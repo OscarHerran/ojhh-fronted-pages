@@ -111,18 +111,11 @@ Fronted Projects
  https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio14_Calculum/
  
  Ejercicio 15
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio15_visor
  
  Ejercicio 16
- 
- Ejercicio 17
- 
- Ejercicio 18
- 
- Ejercicio 19
- 
- Ejercicio 20
- 
- Ejercicio 11
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio16_Reloj
+
  
  
  
