@@ -115,6 +115,25 @@ Fronted Projects
  
  Ejercicio 16
  https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T31/Ejercicio16_Reloj
+ 
+ Tareas unidad 32
+ 
+ Ejercicio 1
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T32/Ejercicio1
+ 
+ Ejercicio 2
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T32/Ejercicio2
+ 
+ Ejercicio 3
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T32/Ejercicio3
+ 
+ Ejercicio 4
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T32/Ejercicio4
+ 
+ Ejercicio 5
+ https://github.com/OscarHerran/ojhh-fronted-pages/tree/main/T32/Ejercicio5
+ 
+ 
 
  
  
