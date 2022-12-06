@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    margin: auto 0px;
+}
+
+h1  {
+    
+    text-align: center;
+    font-family: Arial;
+    margin-bottom: 20px;
+    color: rgb(89, 89, 243);
+    border-bottom: 1px solid gray;
+}
+
+#container  {
+    margin: 10%;
+    background-color: rgb(238, 234, 230);
+    align-items: center;
+    padding: 35px;
+    width: 850px;
+}
+
+.row    {
+    margin-bottom: 25px;
+}
+
+.formulario {
+    text-align: center;
+    color: rgb(91, 91, 248);
+    padding-bottom: 35px;
+    width: 700px;
+    margin-left: 10px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.inputs {
+    width: 600px;
+    height: max-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#box-message    {
+    height: 250px;
+    text-align: start;
+}

@@ -1,0 +1,54 @@
+
+#uthemes{
+    width: 150px;
+}
+
+.border-left{
+    
+    padding: 20px;
+}
+
+.nav-item .nav-link:hover{
+    background-color:rgb(65, 64, 90);
+    
+}
+
+#segundo{
+    margin-right:12px;
+}
+
+#submenu{
+text-align: left;
+left: 20%;
+background-color: rgb(56, 55, 55);
+
+
+}
+
+#submenu a:hover{
+    background-color: rgb(121, 118, 118);
+
+}
+
+#SubItem1{
+    top: 50px;
+    background-color: rgb(56, 55, 55);
+
+
+}
+
+#SubItem1 a:hover{
+    background-color: rgb(121, 118, 118);
+
+}
+#SubItem2{
+    top: 100px;
+    background-color: rgb(56, 55, 55);
+
+
+}
+
+#SubItem2 a:hover{
+    background-color: rgb(121, 118, 118);
+
+}
